@@ -1,0 +1,8 @@
+.navbar-container{
+    width:10rem;
+    height: 100vh;
+}
+.navbar-container ul li{
+    list-style-type: none ;
+    padding:.5rem;
+}
